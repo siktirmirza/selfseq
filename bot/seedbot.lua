@@ -228,9 +228,15 @@ function create_config( )
     "invite",
     "all",
     "leave_ban",
-	"supergroup",
+	"super",
 	"whitelist",
-	"msg_checks"
+	"msg_checks",
+	"send",
+	"prosend",
+	"save",
+	"plugins",
+	"addplug",
+	"boobs_fa"
     },
     sudo_users = {205906514},--Sudo users
     moderation = {data = 'data/moderation.json'},
